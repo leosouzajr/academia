@@ -6,9 +6,10 @@ public class Aluno {
     private String telefone;
     private int diasDeAulaNaSemana;
     private Instrutor instrutor;
-
+   
     public int getMatriculaAluno() {
         return matriculaAluno;
+   
         
     }
 
