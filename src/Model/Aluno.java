@@ -9,6 +9,7 @@ public class Aluno {
 
     public int getMatriculaAluno() {
         return matriculaAluno;
+        
     }
 
     public void setMatriculaAluno(int matriculaAluno) {
